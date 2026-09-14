@@ -1,0 +1,16 @@
+{
+  "name": "mi-win-yu-win-campaign",
+  "version": "1.0.0",
+  "description": "Cross-platform campaign management dashboard with multi-user collaboration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "campaign",
+    "election",
+    "management"
+  ],
+  "author": "Terry Guyoni Yakuye",
+  "license": "MIT"
+}
